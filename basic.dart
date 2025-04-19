@@ -29,7 +29,7 @@ void main() {
 
   // 4. Marks And Percentage
 
-  String name = "Jawwad";
+  String name = "ahmed";
   int subject1 = 74;
   int subject2 = 45;
   int subject3 = 62;
